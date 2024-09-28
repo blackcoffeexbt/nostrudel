@@ -1,5 +1,19 @@
 # nostrudel
 
+## 0.42.0
+
+### Minor Changes
+
+- 6e6baa7: Add edit button to event debug modal
+- 6e6baa7: Add templates to event publisher
+- 4659ad7: Add option to hide noStrudel logo in nav bar
+- bbd19d7: Add "Proactively authenticate to relays" option to privacy settings, defaults to off
+- 4d0d770: Move core logic out into applesauce packages
+
+### Patch Changes
+
+- bbd19d7: Fix automatically disconnecting from authenticated relays
+
 ## 0.41.0
 
 ### Minor Changes
